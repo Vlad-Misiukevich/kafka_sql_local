@@ -107,7 +107,7 @@ docker-compose exec grafana bash -c '/scripts/clickstream-analysis-dashboard.sh'
 ![img_21.png](images/img_21.png)
 24. Clickstream Analysis Dashboard:
 ![img_24.png](images/img_24.png)
-### Metricks
+### Metrics
 1. General website analytics, such as hit count and visitors:
 ![img_22.png](images/img_22.png)
 2. Mapping user-IP addresses to actual users and their location:
